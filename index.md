@@ -2,4 +2,4 @@ March 12, 2013
 
 Hello LJC
 
-This is an extra change that has not been added yet...
+If you want a merge conflict, you have to do it yourself. 
